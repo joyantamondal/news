@@ -1,0 +1,4 @@
+client id
+969548276108-esifs8vnornqmenefo0ciqkm0v3dehhq.apps.googleusercontent.com
+client secret
+crFEI8UjrGUlHBpOgmEPQ9a_
